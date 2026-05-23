@@ -9,8 +9,9 @@ public class Nombre_De_Clase
 ## Variables 
 
 ### String
+``` bash 
 - String nombre = "Ezel"
-
+``` 
 ### int para guardar enteros 
 
 ### double para guardar numeros decimales
