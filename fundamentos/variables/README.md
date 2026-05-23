@@ -8,7 +8,8 @@ public class Nombre_De_Clase
 
 ## Variables 
 
-### String para guardar textos
+### String
+- String nombre = "Ezel"
 
 ### int para guardar enteros 
 
