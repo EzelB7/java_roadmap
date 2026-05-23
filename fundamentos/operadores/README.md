@@ -11,7 +11,9 @@ int resultadomo = a%b;
 - El " % " te da el resto 
 
 ## comparadores 
+- Mayor, menor e igual 
 ``` bash
-a > b 
-- a mayor a b? 
+a > b  
+a < b 
+a == b 
 ```
