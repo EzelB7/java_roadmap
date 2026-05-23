@@ -13,6 +13,7 @@ public class Operadores {
 		"\nLa multiplicacion es :" + multi + 
 		"\nLa division es : "+ div + 
 		"\nEl modulo es : "+ modulo);
+	// comparadores en java 
 	System.out.println("a>b? : "+ (a>b) );
 	System.out.println("a<b? : "+ (a<b));
 	System.out.println("a=b? "+ (a==b));

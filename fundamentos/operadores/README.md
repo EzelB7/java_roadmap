@@ -10,10 +10,30 @@ int resultadomo = a%b;
 ```
 - El " % " te da el resto 
 
-## comparadores 
-- Mayor, menor e igual 
+## Comparadores 
+- Mayor, menor, igual y distinto a  
 ``` bash
 a > b  
 a < b 
 a == b 
+a != b 
 ```
+## Operadores logicos 
+- Operador AND
+``` bash 
+&& 
+``` 
+- Operador NOT
+``` bash 
+!
+```
+- Operador OR 
+``` bash 
+|| 
+``` 
+
+
+
+
+
+
