@@ -10,6 +10,6 @@ public class Main {
 	System.out.println(edad);
 	System.out.println(altura);
 	System.out.println(Estudiante);
-
+	 
     }
 }

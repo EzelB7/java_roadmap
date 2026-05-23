@@ -29,4 +29,5 @@ double estatura = 1.70
 - Sirve para sentencias verdadero/falso
 ``` bash 
 boolean estudiante = true;
-``` 
+```
+
