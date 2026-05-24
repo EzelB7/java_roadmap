@@ -6,4 +6,15 @@
 ``` bash 
 for(inicio o desde ; fin o hasta ; con paso, salto o incremento) 
 ``` 
+- El i++ significa 
+```bash 
+i=i+1;
+``` 
+- Ejemplo
+``` bash 
+for (int k = 1 ; k<=5 ; k++){
+    System.out.println(k);
+
+}
+```
 
