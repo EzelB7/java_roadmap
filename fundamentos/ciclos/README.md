@@ -36,5 +36,21 @@ while (contador<=5 ){
 }
 ```
 
+## Ciclo do while
+- Estructura convencional 
+``` bash 
+do {
+    codigo;
+    incremento/decremento;
+} while (condicion);
+```
+
+
+
+
+
+
+
+
 
 
