@@ -18,3 +18,13 @@ for (int k = 1 ; k<=5 ; k++){
 }
 ```
 
+## Ciclo while 
+- Estructura convencional 
+``` bash 
+while(condicion) {
+hacer 
+}
+``` 
+
+
+
