@@ -34,6 +34,7 @@ while (contador<=5 ){
     System.out.println(contador);
     contador++; // esta parte no olvidar o queda en ciclo infinito!!
 }
+```
 
 
 
