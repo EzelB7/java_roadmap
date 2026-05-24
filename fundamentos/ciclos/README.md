@@ -22,7 +22,7 @@ for (int k = 1 ; k<=5 ; k++){
 - Estructura convencional 
 ``` bash 
 while(condicion) {
-hacer 
+    hacer 
 }
 ``` 
 
