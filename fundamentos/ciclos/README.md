@@ -47,11 +47,12 @@ do {
 - Ejemplo
 ``` bash 
 int a = 1;
-El do abre y cierra llaves 
+El do abre y cierra llaves
+El while abre y cierra parentesis y luego ;
 do {  
     System.out.println("hola");
-    a++ // no olvidar esta parte!
-    }while(a<5); // el while abre y cierra parentesis 
+    a++             // no olvidar esta parte!
+    }while(a<5);  
 ```
 
 
