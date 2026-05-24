@@ -15,6 +15,7 @@ else {
 }
 ``` 
 ## else if
+- Hay que abrir y cerrar las llaves y los parentesis.
 ``` bash 
 else if () {
 

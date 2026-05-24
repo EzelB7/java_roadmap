@@ -12,8 +12,10 @@ public class Condicionales {
 	}
 	else{  // lo mismo para los else 
 	    System.out.println("eres menor de edad");
+	} 	
 	}
-		
-	}
+
+	
+	
 }
 
