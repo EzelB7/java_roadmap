@@ -27,6 +27,13 @@ while(condicion) {
 ```
 - No olvidar incrementar/decrementar tu variable dentro del while para no caer en ciclo infinito!
 
+- Ejemplo
+``` bash 
+int contador = 1 ;
+while (contador<=5 ){
+    System.out.println(contador);
+    contador++; // esta parte no olvidar o queda en ciclo infinito!!
+}
 
 
 
