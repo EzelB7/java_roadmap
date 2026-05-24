@@ -40,11 +40,18 @@ while (contador<=5 ){
 - Estructura convencional 
 ``` bash 
 do {
-    codigo;
+    codigo; // Este codigo se va ejecutar al menos 1 vez  
     incremento/decremento;
-} while (condicion);
+} while (condicion); // aqui recien se verificar el true o false!
 ```
-
+- Ejemplo
+``` bash 
+int a = 1;
+do { // el do abre y cierra llaves 
+    System.out.println("hola");
+    a++ // no olvidar esta parte!
+    }while(a<5); // el while abre y cierra parentesis 
+```
 
 
 

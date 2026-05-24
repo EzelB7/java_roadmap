@@ -23,5 +23,6 @@ public class Ciclos {
 		
 	} while (a<=5); // aqui recien se evalua la condicion V o F
 
-    }
-}
+    } //del main 
+    
+}// de la clase 
