@@ -24,7 +24,9 @@ for (int k = 1 ; k<=5 ; k++){
 while(condicion) {
     hacer 
 }
-``` 
+```
+- No olvidar incrementar/decrementar tu variable dentro del while para no caer en ciclo infinito!
+
 
 
 

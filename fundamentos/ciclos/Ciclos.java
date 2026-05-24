@@ -12,7 +12,7 @@ public class Ciclos {
 	int valor = 1 ;
 	while (valor<=5) {
 	    System.out.println("hola "+valor+ " veces");
-	    valor++;
+	    valor++; // no olvidar sumar el contador para no caer en ciclo infinito!
 		
 	}
 
