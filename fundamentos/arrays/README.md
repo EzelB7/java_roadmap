@@ -22,6 +22,11 @@ tipo_de_dato [ ] nombre_de_array = new tipo_de_dato[numero de elementos];
 int [] array = new int[5];
 ```
 
+- Esto inicalizaria de esta manera : 
+``` bash 
+array = [0,0,0,0,0];
+``` 
+
 - Valores iniciales de cada tipo de dato 
 ``` bash 
 int = 0;
