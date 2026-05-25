@@ -17,6 +17,10 @@ int [] numeros = {1,2,3,4,5};
 ``` bash 
 tipo_de_dato [ ] nombre_de_array = new tipo_de_dato[numero de elementos];
 ```
+- Ejemplo
+``` bash
+int [] array = new int[5];
+```
 
 - Valores iniciales de cada tipo de dato 
 ``` bash 
