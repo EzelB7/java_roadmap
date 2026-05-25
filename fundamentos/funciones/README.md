@@ -1,4 +1,4 @@
-# Funciones en java 
+# Funciones/metodos static en java 
 
 ## Estructura convencional 
 ### Funcion de clase 
