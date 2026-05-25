@@ -19,6 +19,8 @@ int = 0;
 double = 0.0;
 boolean = false; 
 String = null;
+```
+
 ``` bash 
 tipo_de_dato [ ] nombre_de_array = new tipo_de_dato[numero de elementos];
 ```
