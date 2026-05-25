@@ -12,6 +12,13 @@ int [] numeros = {1,2,3,4,5};
 - especificamos el tipo de dato y luego colocamos los " [ ] " y por ultimo el nombre 
 
 ## Inicializacion por medio de " new " 
+- La palabra reservada "new" crea un espacio en memoria dinamica
+- Valores iniciales de cada tipo de dato 
+``` bash 
+int = 0; 
+double = 0.0;
+boolean = false; 
+String = null;
 ``` bash 
 tipo_de_dato [ ] nombre_de_array = new tipo_de_dato[numero de elementos];
 ```
