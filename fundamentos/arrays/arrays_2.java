@@ -7,6 +7,8 @@ public class arrays_2 {
 	for (int numero : numeros) { // para cada numero en " numeros "  
 	    System.out.print(numero + " ");
 	}
+
 	System.out.println("");
+
     }
 }
