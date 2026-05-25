@@ -38,7 +38,7 @@ public class Arrays {
 	}
 	System.out.println("el mayor del array es : "+ mayor);
 	System.out.println("La suma de todos los numeros en el array es : "+ suma);
-	System.out.println("el menor de todos es : " + menor);
+
 	
 
     }
