@@ -14,6 +14,12 @@ modificador_de_acceso static tipo_de_retorno nombre (tipo_de_dato parametro )
 - protected = Accesible por herencia o paquete 
 - default = Accesible por el mismo paquete 
 
+### Tipos de retorno 
+- int 
+- String
+- boolean
+- double 
+
 ### Ejemplo 
 
 ``` bash 
