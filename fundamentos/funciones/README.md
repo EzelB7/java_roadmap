@@ -10,6 +10,12 @@ modificador_de_acceso static tipo_de_retorno nombre (tipo_de_dato parametro )
 
 - el modificador_de_acceso o de visibilidad puede ser public/private/protected 
 
-- 
+### Ejemplo 
+
+``` bash 
+public static void () {
+System.out.println("esto es una funcion") ;
+}
+``` 
 
 
