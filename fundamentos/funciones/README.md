@@ -19,7 +19,7 @@ modificador_de_acceso static tipo_de_retorno nombre (tipo_de_dato parametro )
 - String
 - boolean
 - double 
-
+- objeto 
 ### Ejemplo 
 
 ``` bash 
