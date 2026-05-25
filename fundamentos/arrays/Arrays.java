@@ -1,3 +1,5 @@
+import java.awt.SplashScreen;
+
 public class Arrays {
     public static void main(String[] args) {
     	// Declaracion de array 
@@ -5,16 +7,22 @@ public class Arrays {
 	String [] nombres = {"cocolisa", "tiki", "cutu"}; // los elementos de los arrays con strings van con " elemento" 
 	System.out.println("numero en la posicion 1 es : " +numeros[0]);
 
+
 	// acceso manual a un elemento de un array 
 	// se utiliza el nombre del array y luego los corchetes 
 	// array[indice]
 	System.out.println("acceso manual a un array : " + "array[0]: "+ numeros[0]);
+	System.out.println("");
+
 
 	// Recorrido de array por ciclos 
 	// ciclo for 
 	for (int i = 0; i < numeros.length; i++) {
-	    System.out.println(numeros[i]);
+	    System.out.print(numeros[i]+ " " );
 	}
+	System.out.println("");
+
+
 
 	// ciclo while
 	int contador=0;
@@ -22,7 +30,9 @@ public class Arrays {
 	    System.out.println("Recorrido por ciclo while "+ nombres[contador]);
 	    contador++;
 	}
-	// encontrar mayor y menor 
+
+
+	// encontrar mayor, menor y suma  
 	int mayor = numeros[0];
 	int suma= 0;
 	int menor= numeros[0];
